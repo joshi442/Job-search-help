@@ -7,4 +7,4 @@ It is quite tiring and depressing when one doesn't have a job. To help you a bit
 
 This repo contains:
 
-1. Python bulk emailing script: It works through your gmail and you can send multiple Customized emails at once to recruiters. Cold emailing really worked for me in getting interview calls from recruiters.
+**1. Python bulk emailing script:** It works through your gmail and you can send multiple Customized emails at once to recruiters. Cold emailing really worked for me in getting interview calls from recruiters.
